@@ -14,3 +14,15 @@ This is database-design.md file
 发布时间   date
 编辑时间(最后一次编辑时间) date
 作者      int 
+
+用户表
+字段名称    字段类型
+用户编号uid  int 
+用户昵称     varchar
+用户真实姓名 varchar
+用户性别     varchar
+用户出生年月 date
+用户籍贯     varchar
+用户所在地   varchar
+
+
