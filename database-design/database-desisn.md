@@ -26,3 +26,9 @@ This is database-design.md file
 用户所在地   varchar
 
 
+密码表
+字段名称 字段类型
+用户编号uid int
+密码       varchar(加密后的密码)
+密码编辑时间(上次修改时间) date 
+
