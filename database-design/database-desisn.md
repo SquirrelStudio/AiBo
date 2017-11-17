@@ -42,3 +42,10 @@ This is database-design.md file
 |:------:|:------:|
 |博文pid |varchar |
 |博主uid |int     |
+
+### 热门评论
+
+|字段名称|字段类型|
+|:------:|:------:|
+|评论cid |int     |
+
