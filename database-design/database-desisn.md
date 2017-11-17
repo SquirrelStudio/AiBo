@@ -36,3 +36,9 @@ This is database-design.md file
 |密码       |varchar(加密后的密码) |
 |密码编辑时间(上次修改时间)| date |
 
+### 热门博文
+
+|字段名称|字段类型|
+|:------:|:------:|
+|博文pid |varchar |
+|博主uid |int     |
