@@ -82,6 +82,9 @@ This is database-design.md file
 |专辑修改时间|date|
 |收录博文pid| int |
 
+### 博文图片
+|字段名称|字段类型|
+|:------:|:------:|
 
 
 
