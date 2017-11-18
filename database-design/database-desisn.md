@@ -56,8 +56,18 @@ This is database-design.md file
 |:------:|:------:|
 |评论cid |int     |
 |评论者uid| int   |
+|评论文章pid|int  |
 |评论内容| varchar|
 |评论时间| date   |
 
+### 最新博文
+
+|字段名称|字段类型|
+|:------:|:------:|
+|博文pid | int    |
+
+
+
+ 
 
 
