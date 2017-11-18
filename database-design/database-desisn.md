@@ -75,7 +75,7 @@ This is database-design.md file
 ### 博文专辑
 |字段名称|字段类型|
 |:------:|:------:|
-|专辑zid |:------:|
+|专辑zid |   int  |
 
 
 
