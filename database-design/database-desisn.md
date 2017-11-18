@@ -76,6 +76,12 @@ This is database-design.md file
 |字段名称|字段类型|
 |:------:|:------:|
 |专辑zid |   int  |
+|专辑名称| varchar|
+|专辑创建者uid|int|
+|专辑创建时间|date|
+|专辑修改时间|date|
+|收录博文pid| int |
+
 
 
 
