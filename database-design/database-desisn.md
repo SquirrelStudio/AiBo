@@ -27,6 +27,8 @@ This is database-design.md file
 |用户出生年月| date    |
 |用户籍贯    | varchar |
 |用户所在地  | varchar |
+| 用户头像   | varchar |
+
 
 
 ### 密码表
@@ -56,4 +58,6 @@ This is database-design.md file
 |评论者uid| int   |
 |评论内容| varchar|
 |评论时间| date   |
+
+
 
