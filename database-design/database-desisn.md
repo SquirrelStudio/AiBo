@@ -29,7 +29,24 @@ This is database-design.md file
 |用户所在地  | varchar |
 | 用户头像   | varchar |
 
+### 用户详细资料表
+|字段名称|字段类型|
+|:------:|:------:|
+|用户编号uid| int |
+|熟悉领域| varchar|
+|专业技能| varchar|
+|教育经历eid| int |
+|工作经历jid| int |
 
+### 用户联系方式表
+|字段名称|字段类型|
+|:------:|:------:|
+|用户uid | int    |
+|电子邮箱| varchar|
+|微信号  | varchar|
+| 手机号 | varchar|
+|QQ号    | varcha |
+|是否可见| boolean|
 
 ### 密码表
 |字段名称 |字段类型|
