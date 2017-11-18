@@ -85,6 +85,13 @@ This is database-design.md file
 ### 博文图片
 |字段名称|字段类型|
 |:------:|:------:|
+|博文pid | int    |
+|图片id  | int    |
+|图片名称| varchar|
+|图片路径| varchar|
+|图片提示语| varchar|
+|图片类别| varchar|
+
 
 
 
