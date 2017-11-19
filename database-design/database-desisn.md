@@ -2,10 +2,14 @@ This is database-design.md file
 
 ### 用户简单信息表
 |字段名称|字段类型|
-|:------:|:-------:|
-
-
-
+|:------:|:------:|
+|用户编号uid| int |
+|用户昵称|varchar |
+|用户真实姓名|varchar|
+|用户性别| varchar|
+|出生年月| varchar|
+|用户所在地| varchar|
+|籍贯    |varchar |
 
 
 ### 博文表
