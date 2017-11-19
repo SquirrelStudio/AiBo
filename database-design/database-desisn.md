@@ -10,6 +10,7 @@ This is database-design.md file
 |出生年月| varchar|
 |用户所在地| varchar|
 |籍贯    |varchar |
+| 用户头像| varchar|
 
 ### 用户联系方式表
 |字段名称|字段类型|
