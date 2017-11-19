@@ -31,6 +31,13 @@ This is database-design.md file
 
 ### 用户技能表
 
+|字段名称| 字段类型|
+|:------:|:-------:|
+| 用户id | int     |
+|技能名称| varchar |
+| 技能熟悉度| int  |
+
+
 
 
 
