@@ -48,10 +48,6 @@ This is database-design.md file
 |教育学校|  varchar|
 
 
-
-
-
-
 ### 博文表
 
 |字段名称  | 字段类型 |
@@ -66,38 +62,6 @@ This is database-design.md file
 |发布时间  |date      |
 |编辑时间(最后一次编辑时间) |date|
 |作者      |int       | 
-
-### 用户表
-
-|字段名称   |   字段类型|
-|:---------:|:--------:|
-|用户编号uid|  int     |
-|用户昵称   |  varchar |
-|用户真实姓名| varchar |
-|用户性别    | varchar |
-|用户出生年月| date    |
-|用户籍贯    | varchar |
-|用户所在地  | varchar |
-| 用户头像   | varchar |
-
-### 用户详细资料表
-|字段名称|字段类型|
-|:------:|:------:|
-|用户编号uid| int |
-|熟悉领域| varchar|
-|专业技能| varchar|
-|教育经历eid| int |
-|工作经历jid| int |
-
-### 用户联系方式表
-|字段名称|字段类型|
-|:------:|:------:|
-|用户uid | int    |
-|电子邮箱| varchar|
-|微信号  | varchar|
-| 手机号 | varchar|
-|QQ号    | varcha |
-|是否可见| boolean|
 
 ### 密码表
 |字段名称 |字段类型|
