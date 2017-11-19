@@ -37,6 +37,17 @@ This is database-design.md file
 |技能名称| varchar |
 | 技能熟悉度| int  |
 
+### 用户的教育经历
+
+|字段名称| 字段类型|
+|:------:|:-------:|
+| 用户id | int     |
+|教育开始时间| dat |
+|教育截止时间| data|
+| 教育程度| varchar|
+|教育学校|  varchar|
+
+
 
 
 
