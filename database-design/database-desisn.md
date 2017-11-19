@@ -22,6 +22,14 @@ This is database-design.md file
 | Github | varchar|
 |WeiBo   | varchar|
 
+### 用户所属领域
+|字段名称| 字段类型|
+|:------:|:-------:|
+| 用户id | int     |
+|熟悉领域| varchar |
+
+### 用户技能表
+
 
 
 
