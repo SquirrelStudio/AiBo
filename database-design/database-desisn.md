@@ -11,6 +11,19 @@ This is database-design.md file
 |用户所在地| varchar|
 |籍贯    |varchar |
 
+### 用户联系方式表
+|字段名称|字段类型|
+|:------:|:------:|
+|用户uid | int    |
+|电子邮箱|varchar |
+|微信    | varchar|
+|QQ号    | varchar|
+| 手机号 | varchar|
+| Github | varchar|
+|WeiBo   | varchar|
+
+
+
 
 ### 博文表
 
