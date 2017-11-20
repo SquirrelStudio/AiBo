@@ -104,6 +104,15 @@ This is database-design.md file
 |专辑修改时间|date|
 |收录博文pid| int |
 
+### 博文图片
+|字段名称|字段类型|
+|:------:|:------:|
+|博文pid | int    |
+|图片id  | int    |
+|图片名称| varchar|
+|图片路径| varchar|
+|图片提示语| varchar|
+|图片类别| varchar|
 
 ### 热门评论
 
@@ -126,15 +135,6 @@ This is database-design.md file
 
 
 
-### 博文图片
-|字段名称|字段类型|
-|:------:|:------:|
-|博文pid | int    |
-|图片id  | int    |
-|图片名称| varchar|
-|图片路径| varchar|
-|图片提示语| varchar|
-|图片类别| varchar|
 
 
 
