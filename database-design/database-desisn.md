@@ -48,28 +48,28 @@ This is database-design.md file
 |教育学校|  varchar|
 
 ### 密码表
+
 |字段名称 |字段类型|
 |:-------:|:------:|
 |用户编号uid| int  |
 |密码       |varchar(加密后的密码) |
 |密码编辑时间(上次修改时间)| date |
 
-
-
 ### 博文表
 
 |字段名称  | 字段类型 |
 |:--------:|:--------:|
-|编号bid   | varchar  |
+|编号pid   | int      |
 |种类      |varchar   |
 |分类      |int       |
 |子分类    |int       |
+|作者      |int       | 
 |标题      |varchar   |
-|摘要      |varchar   |
+|标签      |varchar   |
 |内容      |varchar   |
 |发布时间  |date      |
 |编辑时间(最后一次编辑时间) |date|
-|作者      |int       | 
+
 
 
 
