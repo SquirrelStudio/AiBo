@@ -18,3 +18,5 @@ This is demand-analysis.md file
     3.5 热门博客系统
 
 4. 后台系统
+5. 软件测试
+6. 软件上线
