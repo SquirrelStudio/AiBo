@@ -20,3 +20,5 @@ This is demand-analysis.md file
 4. 后台系统
 5. 软件测试
 6. 软件上线
+7. 软件运行
+8. 后期维护
