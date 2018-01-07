@@ -1,5 +1,5 @@
 This is demand-analysis.md file 
-1.On 14.nov.2017 i input some 
+1. update 1.7.2018 by squirrelchen
 
 2. 登录/注册系统
 3. 前台系统
