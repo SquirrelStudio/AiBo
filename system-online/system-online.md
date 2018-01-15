@@ -9,5 +9,3 @@ online online online
 hello world 
 hello squirrelchen
 hello somebody hello squirrelchen
-hello happy new year 
-hello someone
