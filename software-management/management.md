@@ -1,5 +1,4 @@
-This is management.md file 
-Markdown for windows 
+
 
 # 序
 这是关于Aibo系统的项目管理的Markdown文件,撰写了项目管理的相关.
